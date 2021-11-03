@@ -1,5 +1,12 @@
 body{
+  background-color:#f6e174;
   text-align:center;
+}
+header{
+  background-color:#daab00;
+}
+h1 {
+  background-color:#d3962a;
 }
 .half {
   width:50%;
