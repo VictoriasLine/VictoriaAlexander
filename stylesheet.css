@@ -76,9 +76,124 @@
 }
 h1{
   text-align:center;
-  color:white;
   font-family:cursive;
 }
-button {
-  background-color:#6da4b3;
+
+.onedb {
+  background-color:#0c2345;
+}
+.oneb {
+  background-color:#0a325d;
+}
+.onelb {
+  background-color:#648099;
+}
+
+.twobr {
+  background-color:#6e3313;
+}
+.twodg {
+  background-color:#c2a250;
+}
+.twog{
+  background-color:#e6c966;
+}
+.twogra {
+  background-color:#776965;
+}
+.twopb {
+  background-color:#cddddf;
+}
+
+.threegb {
+  background-color:#68798c;
+}
+.threeb {
+  background-color:#8397ab ;
+}
+.threelbr {
+  background-color:#ad8767 ;
+}
+.threebr {
+  background-color:#553119 ;
+}
+.threegra {
+  background-color:#584d49 ;
+}
+
+.fourdb {
+  background-color:#15193a;
+}
+.fourb {
+  background-color:#303860 ;
+}
+.fourlb {
+  background-color:#777f9c ;
+}
+.fourgra {
+  background-color:#8c8578 ;
+}
+.fourdg {
+  background-color:#342f2a ;
+}
+
+.fivep {
+  background-color:#827a91 ; 
+}
+.fiveb {
+  background-color:#1e3596 ; 
+}
+.fivey {
+  background-color:#f0b940 ; 
+}
+.fivepi {
+  background-color:#e47346 ; 
+}
+.fiver {
+  background-color:#d0562f; 
+}
+
+.sixgra {
+  background-color:#574f51 ;
+}
+.sixlgr {
+  background-color:#88ad2b ;
+}
+.sixog {
+  background-color:#728432 ;
+}
+.sixdg {
+  background-color:#576716 ;
+}
+.sixbr {
+  background-color:#5b4a34 ;
+}
+
+.sevenpur {
+  background-color:#532d42 ;
+}
+.sevenbl {
+  background-color:#15246d ;
+}
+.sevengr {
+  background-color:#0e691e ;
+}
+.seveng {
+  background-color:#c47912 ;
+}
+.sevenr {
+  background-color:#871f13 ;
+}
+
+.eightbla {
+  background-color:#150906 ;
+}
+.eightbr {
+  background-color:#451d00 ;
+}
+.eightgra {
+  background-color:#61574d ;
+}
+.eightlg {
+  background-color:#d5cbba ;
 }
