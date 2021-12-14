@@ -43,5 +43,16 @@ There were more html files that orginally planned because along side creating he
 Most pages either started from the basic layout.html or slideshow.html. 
 The files are as followed. 
 
-###### About.html
+###### Layout.html
+A html page that has the basic layout for the site. Including NavBar 1 which has buttons linked to the home, about, art, contact, prints, videos and guest pages. And a second navbar with a button linked to the themes page. 
+There is also a header "Victoria Alexander" that is also a button that will take the user back to the home page. 
+###### slideshow.html 
+Slideshow.html is very similar to layout.html with the addition of an h2 section for the name of the slideshow, as well as a div that contains the images and buttons used in the slideshow and a script section that makes the slideshow function. This page is used for displaying art work to the users. Orginally the slide show was automated but it was visually difficult and did not allow the user to look at each piece as long as they desired. 
+###### index.html
+Index.html is the home page that uses layout.html. In addition there is a section including the artist name, location, photograph and a link to the contact page. As well as a automatic slideshow that will flip through all art work by Vicotria and when clicked will take the user to the Art.html page. 
+###### about.html
+About.html is where the user can find out about Vicotira in addition to the layout.html features it also has 3 collums that include past artistic experience, a image of the artist and future plans. 
+###### art.html
+Art.html is the basic slideshow page that flips through all 70 orginal pieces from Victoria. 
+
 
