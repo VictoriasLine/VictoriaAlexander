@@ -49,23 +49,43 @@ There is also a header "Victoria Alexander" that is also a button that will take
 ###### slideshow.html 
 Slideshow.html is very similar to layout.html with the addition of an h2 section for the name of the slideshow, as well as a div that contains the images and buttons used in the slideshow and a script section that makes the slideshow function. This page is used for displaying art work to the users. Orginally the slide show was automated but it was visually difficult and did not allow the user to look at each piece as long as they desired. 
 ###### index.html
+https://mxw035.github.io/VictoriaAlexander/index.html
 Index.html is the home page that uses layout.html. In addition there is a section including the artist name, location, photograph and a link to the contact page. As well as a automatic slideshow that will flip through all art work by Vicotria and when clicked will take the user to the Art.html page. 
 ###### about.html
+https://mxw035.github.io/VictoriaAlexander/about.html
 About.html is where the user can find out about Vicotira in addition to the layout.html features it also has 3 collums that include past artistic experience, a image of the artist and future plans. 
 ###### art.html
+https://mxw035.github.io/VictoriaAlexander/art.html
 Art.html is the basic slideshow page that flips through all 70 orginal pieces from Victoria. 
 ###### contact.html
+https://mxw035.github.io/VictoriaAlexander/contact.html
 Contact.html uses the basic layout page with the addition of two forms sections. One that allows users to reach out to Victoria with custom art request, custom card packs, and questions. The second one allows the user to subscribe to Victoria's email list to recieve updates. Orginally for form input I was going to use a sql database but since github is only for static sites I decieded to use FromSpree to store the user input data. 
 ###### print.html
+https://mxw035.github.io/VictoriaAlexander/prints.html
 Print.html uses the basic layout page. List the purchase options and prices. Shows the index photos with names for all pieces. With links to the individual theme pages and card pack pages. As well as two form pages for poster print orders and card pack orders. There is also a link to contact page where custom art can be requested. 
 ###### video.html
+https://mxw035.github.io/VictoriaAlexander/video.html
 Video.html uses the layout page. With two additonal Forms added the email subscription form and the questions for Vicotria form. There is also a link to Vicotira's Youtube home page. Where the image of the Youtube page is there will be a video player since Victoria has not yet created a video it is blank at this time. 
 ###### guest.html
+https://mxw035.github.io/VictoriaAlexander/guest.html
 Guest.html uses the slideshow page. There are four collumns including the guest artist infromation(name, location, picture and email), a manual slideshow feautre the guest artist orginal work, a past experiences section and a future plans section. The goal of this page will be to help feature up and comming local artist trying to get into the artistic community. 
 ###### themes.html
-Themes.html uses the layout page and contains the five art index images that link the user to the individual theme pages which include colors.html, linepeoples.html, lines.html, and natures.html. These pages can help users pic their favorite style and find the pieces name for ordering. 
+https://mxw035.github.io/VictoriaAlexander/themes.html
+Themes.html uses the layout page and contains the five art index images that link the user to the individual theme pages which include colors.html, linepeoples.html, lines.html, and natures.html. These pages can help users pic their favorite style and find the pieces name for ordering.
+https://mxw035.github.io/VictoriaAlexander/lines.html
+https://mxw035.github.io/VictoriaAlexander/colors.html
+https://mxw035.github.io/VictoriaAlexander/linepeoples.html
+https://mxw035.github.io/VictoriaAlexander/natures.html
+
 ###### Card Pages Include
 color.html, linesone.html, linestwo.html, lpone.html, lptwo.html, lpthree.html, and nature.html
+https://mxw035.github.io/VictoriaAlexander/linesone.html
+https://mxw035.github.io/VictoriaAlexander/linestwo.html
+https://mxw035.github.io/VictoriaAlexander/color.html
+https://mxw035.github.io/VictoriaAlexander/nature.html
+https://mxw035.github.io/VictoriaAlexander/lpone.html
+https://mxw035.github.io/VictoriaAlexander/lptwo.html
+https://mxw035.github.io/VictoriaAlexander/lpthree.html
 ###### stylesheet.css
 Contians the basic code for the w3 yellow themed layout that is applied to all other pages. 
 ##### Debated Choices
