@@ -1,0 +1,21 @@
+# VictoriaAlexander
+## By Monica Evans 
+### Flagstaff, AZ, UnitedStates 
+
+#### Project Goal 
+
+A few months ago I met with a local artist who was a family friend. She mentioned that she was wanting to set up a
+website for her artwork where she could sell prints but she did not know how.
+At the time I did not know how to begin to make a website. She knew I was taking classes in computer science and asked that when I
+get to website development in my studies that I reach out.
+I really enjoyed week 8 and 9 problem sets. It was these assignments that gave me the cofidence to chose Victoria's Art Show as my
+final project.
+
+#### How it all came together 
+
+We had previously used bootstrap in class and I set out to learn more regaurding bootstrap on https://www.w3schools.com/bootstrap/bootstrap_ver.asp
+It was there that I learned W3 had their own css framework. I had not specifically enjoyed using bootstrap and I didnt want to
+use a template for my website lay out. Instead I wanted to design the layout my self.
+I completed the tutorial on W3.css and began desining the website.
+To start I completed a webpage demo to show to Victoria so that she might have an idea of what her page could look like.
+This demo page was called Monica's Art.
