@@ -59,7 +59,7 @@ https://mxw035.github.io/VictoriaAlexander/art.html
 Art.html is the basic slideshow page that flips through all 70 orginal pieces from Victoria. 
 ###### contact.html
 https://mxw035.github.io/VictoriaAlexander/contact.html
-Contact.html uses the basic layout page with the addition of two forms sections. One that allows users to reach out to Victoria with custom art request, custom card packs, and questions. The second one allows the user to subscribe to Victoria's email list to recieve updates. Orginally for form input I was going to use a sql database but since github is only for static sites I decieded to use FromSpree to store the user input data. 
+Contact.html uses the basic layout page with the addition of two forms sections. One that allows users to reach out to Victoria with custom art request, custom card packs, and questions. The second one allows the user to subscribe to Victoria's email list to recieve updates. Orginally for form input I was going to use a sql database but since github is only for static sites I decieded to use FromSpree to store the user input data. FormSpree will also email us everytime a new submission is completed so that we can stay on top of users orders and requests. 
 ###### print.html
 https://mxw035.github.io/VictoriaAlexander/prints.html
 Print.html uses the basic layout page. List the purchase options and prices. Shows the index photos with names for all pieces. With links to the individual theme pages and card pack pages. As well as two form pages for poster print orders and card pack orders. There is also a link to contact page where custom art can be requested. 
