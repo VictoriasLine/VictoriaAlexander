@@ -43,4 +43,5 @@ There were more html files that orginally planned because along side creating he
 Most pages either started from the basic layout.html or slideshow.html. 
 The files are as followed. 
 
+###### About.html
 
