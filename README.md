@@ -54,5 +54,7 @@ Index.html is the home page that uses layout.html. In addition there is a sectio
 About.html is where the user can find out about Vicotira in addition to the layout.html features it also has 3 collums that include past artistic experience, a image of the artist and future plans. 
 ###### art.html
 Art.html is the basic slideshow page that flips through all 70 orginal pieces from Victoria. 
+###### contact.html
+Contact.html uses the basic layout page with the addition of two forms sections. One that allows users to reach out to Victoria with custom art request, custom card packs, and questions. The second one allows the user to subscribe to Victoria's email list to recieve updates. 
 
 
