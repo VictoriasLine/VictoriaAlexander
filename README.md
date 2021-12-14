@@ -38,3 +38,9 @@ My design:
 
 ##### Files 
 
+Because I was using Github pages for the website it needed to be a static webpage and all files would be in the same folder. There were 22 html files needed for the website. 70 jpg files that were Victoria's orginal work. 19jpg files for the guest artist section. As well as 12 other jpg files that were used throughout the webpage. 
+There were more html files that orginally planned because along side creating her website Victoria also asked me to manage and help create products as well as helping to book public apperances. 
+Most pages either started from the basic layout.html or slideshow.html. 
+The files are as followed. 
+
+
