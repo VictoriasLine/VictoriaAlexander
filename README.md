@@ -18,4 +18,23 @@ It was there that I learned W3 had their own css framework. I had not specifical
 use a template for my website lay out. Instead I wanted to design the layout my self.
 I completed the tutorial on W3.css and began desining the website.
 To start I completed a webpage demo to show to Victoria so that she might have an idea of what her page could look like.
-This demo page was called Monica's Art.
+This demo page was called Monica's Art which can be viewed here https://mxw035.github.io/Monica-s-Art/
+
+##### Design 
+
+My design:
+- [x] Homepage
+- [x] About the artist
+- [x] Art Gallary
+- [x] Inspiration behind the art: This idea was not possible because of the vast amount of art work that Victoria had and that she often does not remeber the 
+ inspirations for her pieces.
+- [x] Contact page
+- [x] Next show
+- [x] Ordering prints
+- [x] Request custom art
+- [x] Vicotira was really excited about also show caseing other local artists on the page as guests
+- [x] Video page that would link to a youtube account where Victoria or Guests could film and share their process. 
+- [x] requests for video topics
+
+##### Files 
+
