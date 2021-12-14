@@ -55,6 +55,63 @@ About.html is where the user can find out about Vicotira in addition to the layo
 ###### art.html
 Art.html is the basic slideshow page that flips through all 70 orginal pieces from Victoria. 
 ###### contact.html
-Contact.html uses the basic layout page with the addition of two forms sections. One that allows users to reach out to Victoria with custom art request, custom card packs, and questions. The second one allows the user to subscribe to Victoria's email list to recieve updates. 
+Contact.html uses the basic layout page with the addition of two forms sections. One that allows users to reach out to Victoria with custom art request, custom card packs, and questions. The second one allows the user to subscribe to Victoria's email list to recieve updates. Orginally for form input I was going to use a sql database but since github is only for static sites I decieded to use FromSpree to store the user input data. 
+###### print.html
+Print.html uses the basic layout page. List the purchase options and prices. Shows the index photos with names for all pieces. With links to the individual theme pages and card pack pages. As well as two form pages for poster print orders and card pack orders. There is also a link to contact page where custom art can be requested. 
+###### video.html
+Video.html uses the layout page. With two additonal Forms added the email subscription form and the questions for Vicotria form. There is also a link to Vicotira's Youtube home page. Where the image of the Youtube page is there will be a video player since Victoria has not yet created a video it is blank at this time. 
+###### guest.html
+Guest.html uses the slideshow page. There are four collumns including the guest artist infromation(name, location, picture and email), a manual slideshow feautre the guest artist orginal work, a past experiences section and a future plans section. The goal of this page will be to help feature up and comming local artist trying to get into the artistic community. 
+###### themes.html
+Themes.html uses the layout page and contains the five art index images that link the user to the individual theme pages which include colors.html, linepeoples.html, lines.html, and natures.html. These pages can help users pic their favorite style and find the pieces name for ordering. 
+###### Card Pages Include
+color.html, linesone.html, linestwo.html, lpone.html, lptwo.html, lpthree.html, and nature.html
+###### stylesheet.css
+Contians the basic code for the w3 yellow themed layout that is applied to all other pages. 
+##### Debated Choices
+- [x] payment
+- [x] filter
+- [x] template design
+- [x] colors
+###### Payment Options
+In the begining Victoria had told me she would like to have a website where she could
+sell prints but not the orginals. So I new we would need to have not only a way to print prints on demand but also to accept payments.
+At this point I was not intrested in accepting payments on the website.
+
+- [x] amazon merch
+- [x] google merch
+- [x] venmo
+- [x] paypal
+~~ - [x] square ~~
+- [x] Etsy
+Amazon and Google would both be good options for creating online store fronts where purchases could occur and be logged. I also mostly
+use Amazon and Google for my printing need so I was familer with thier printing services and the quality of their prints.
+I also liked that if we chose the Venmo route to start. Once payment was recieved Victoria could order the print from either Amazon or
+Google and have it directly sent to the users home.
+Paypal is the option for payment only that I believe would be best becuase it would allow us to have a button on the site that directly
+lead the user to paypals secure payment process.
+Unfortunately Square was not an option.
+Venmo can also take payments for business but doesnot provided an onsite button. 
+Eventually I am hoping to help Victoria set up a Paypal account and use their on site button to redirect users. 
+###### Filter 
+Orginally I had differnt options for every print including grayscale, sepia, and opacity. Each filter had three options min, normal and
+max. This is a featur offered throught w3.css which I thoguht was cool. And some of paintings did look cool with the extra options.
+However I decided that this altered the orginal art piece and cluttered up the website. I did keep the orginal layout for this feature
+incase we decided to use it.
+You can see an example by clicking on the style button that is on the homepage.
+Orgianly the indiviaul pages such as artloth.html had four pictures the original, grayscale, sepia and opacity image.
+When if orginal was clicked the user would be direct to the print/purchase page.
+If the image with a filter was clicked such as grayscale, sepia, or opacity. The user was directed to another page that had the orginal
+print, then the 3 filter settings for that option. Ex would be orginal, grayscale-min, grayscale and grayscale-max. When on of these
+were clicked it lead the user to the print/purchase page.
+###### Templeate Layout
+For this progject I really wanted the website to look professional however I really did not want to use a template. So I started looking
+into bootstrap.css on w3 and planned to do the online tutorial. That is when I found the w3.css tutorial. As I stated early the intro
+page showed all the features and it seemed perfect for desiging by own layout for this page. I did look at the template for both
+bootstrap and w3.css. None of them really meet what I wanted.
+###### Color Scheme 
+I love bright and vibrant colors. As seen on the orginal demo I had planned to use multiple bright colors for the page. I had even planned to customize the individual page color based on the individual art piece. Then I realized that the color scheme was taking away from the art work and did not look as professional so it was decided to go with a basic yellow theme which is Victoria's favorite color and is implemented in the stylesheet.css page. 
+
+
 
 
