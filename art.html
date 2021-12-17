@@ -126,8 +126,10 @@ function showDivs(n) {
   x[slideIndex-1].style.display = "block";  
 }
 </script>
+
 <div class="w3-half w3-right">
-  <button class="getName">Get Name</button>
-  </div>
+  <button class="getName" onclick="document.getElementById('getName').innerHTML = img[src]">Get Name</button>
+  <p id="getName"></p>
+</div>
 </body>
 </html>
