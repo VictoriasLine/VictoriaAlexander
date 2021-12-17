@@ -14,9 +14,3 @@ hover {
   background-color:#ddc700;
 }
 
-.getName {
-  <button class = "w3-button"
-  onclick="document.getElementById('getName').innerHTML = img[src]">
-  Click to display img src and name </button>
-  <p id="getName"></p>
-}
