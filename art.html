@@ -127,6 +127,14 @@ function showDivs(n) {
 }
 </script>
 
+<!-- Script for water mark attempt hopefully can do it for the whole class -->
+<script>
+  watermark(['/img/l1.jpg'])
+  .image(watermark.text.lowerRight('Victoria Alexander', '28px serif', '#fff', 0.5))
+  .then(function (img) {
+    document.getElementById('text').appendChild(img);
+  });
+  </script>
 <div class="w3-half w3-right">
   <p>To look at specific piece more closely and others like it click the link below.</p>
   <button class="w3-button w3-hover w3-center"><a href="themes.html">Get Piece Name</a></button>
