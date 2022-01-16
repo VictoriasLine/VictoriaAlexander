@@ -125,11 +125,13 @@ function showDivs(n) {
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
-  x[slideIndex-1].style.display = "block";  
+  x[slideIndex-1].style.display = "block"; 
+  $("#name").html(src);
 }
   </script> 
   
 <div class="w3-half w3-right">
+  <p id="name"></p>
   <p>To look at specific piece more closely and others like it click the link below.</p>
   <button class="w3-button w3-hover w3-center"><a href="themes.html">Get Piece Name</a></button>
 </div>
